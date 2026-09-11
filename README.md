@@ -1,4 +1,4 @@
-# 👨‍💻 Estudiante de Análisis y Desarrollo de Software
+# 👨‍💻 Aprendiz de Análisis y Desarrollo de Software
 
 ¡Hola! Soy estudiante de **Análisis y Desarrollo de Software**, apasionado por la tecnología, la programación y el desarrollo de soluciones digitales. Actualmente me encuentro fortaleciendo mis conocimientos y habilidades en el mundo del desarrollo de software, explorando diferentes herramientas, lenguajes de programación y tecnologías que me permiten convertir ideas en proyectos funcionales.
 
